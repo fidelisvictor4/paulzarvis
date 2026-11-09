@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /luster
+Allow: /
+Sitemap: https://paulzarvis.com/sitemap.xml
